@@ -66,7 +66,10 @@
       "Bash(brew services *)",
       "Bash(sudo defaults *)",
       "Bash(plutil -p /Library/Preferences/com.apple.loginwindow.plist)",
-      "Bash(git check-ignore *)"
+      "Bash(git check-ignore *)",
+      "WebFetch(domain:www.amalytix.com)",
+      "Bash(.venv/bin/python3 -c ' *)",
+      "Bash(.venv/bin/python -c ' *)"
     ]
   }
 }
